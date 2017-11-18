@@ -1,0 +1,12 @@
+
+
+teste 16:
+Transformacao desejada:
+ 3     2      3  6    
+ 5  6  8  ->  5  7  2 
+ 1  7  4      1  4  8 
+mova a peca 6 para cima
+mova a peca 7 para cima
+mova a peca 4 para a esquerda
+mova a peca 8 para baixo
+mova a peca 2 para baixo.

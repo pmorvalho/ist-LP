@@ -1,0 +1,26 @@
+
+
+teste 3:
+Transformacao desejada:
+ 1  2  3      1     2 
+ 4  5  6  ->  4  5  3 
+ 7  8         7  8  6 
+Qual o seu movimento?
+|: 
+ 1  2  3 
+ 4  5    
+ 7  8  6 
+Qual o seu movimento?
+
+ 1  2    
+ 4  5  3 
+ 7  8  6 
+Qual o seu movimento?
+Movimento ilegal
+
+Qual o seu movimento?
+
+ 1     2 
+ 4  5  3 
+ 7  8  6 
+Parabens!
