@@ -6,4 +6,6 @@
 
 [Lógica para Programação](https://fenix.tecnico.ulisboa.pt/disciplinas/LP564511/2014-2015/2-semestre) - 1º ano 2014-2015
 
+[Enunciado](https://github.com/pmorvalho/ist-LP/blob/master/projecto.pdf)
+
 Nota: 20/20
